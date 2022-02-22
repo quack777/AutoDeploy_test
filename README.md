@@ -1,7 +1,5 @@
 # 💨Auto Deploy React Expres
 
-## Stack
+## ‼Stack
 
-<div style="align-item: center">
-    <h1>React, Express, typescript, eslint</h1>
-</div>
+<b>React, Express, typescript, eslint</b>
