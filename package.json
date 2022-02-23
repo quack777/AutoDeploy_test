@@ -1,11 +1,8 @@
 {
   "name": "autodeploy",
   "version": "1.0.0",
-  "description": "## ‼Stack",
+  "description": "",
   "main": "index.js",
-  "engines": {
-    "node": "14.x"
-  },
   "scripts": {
     "client-build": "cd client && npm ci && npm run build && cd ../",
     "server-build": "cd server && npm ci --dev && npm run build && cd../",
@@ -13,14 +10,6 @@
     "start": "cd server && npm run start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/quack777/AutoDeploy_test.git"
-  },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/quack777/AutoDeploy_test/issues"
-  },
-  "homepage": "https://github.com/quack777/AutoDeploy_test#readme"
+  "license": "ISC"
 }
