@@ -1,4 +1,4 @@
-# 💨Auto Deploy React Expres
+# 💨Auto Deploy React,Expres,Typescript with heroku
 
 ## ‼Stack
 
