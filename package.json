@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "## ‼Stack",
   "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "client-build": "cd client && npm ci && npm run build && cd ../",
     "server-build": "cd server && npm ci --dev && npm run build && cd../",
